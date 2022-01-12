@@ -1,9 +1,7 @@
 ---
-id: openlabs_mock
 name: Docker and Kubernetes
 description: This course explains Docker and Kubernetes concepts and how to get started with using them.
 keywords: openlabs, openlabs demo, demo, immersive, learning
-type: lite
 branding:
     logo: _images/Docker_k8s_logo.png
     banner: 

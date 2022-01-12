@@ -1,4 +1,5 @@
 ---
+id: openlabs_mock
 name: Docker and Kubernetes
 description: This course explains Docker and Kubernetes concepts and how to get started with using them.
 type: lite

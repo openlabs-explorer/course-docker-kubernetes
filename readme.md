@@ -1,0 +1,1 @@
+This course explains Docker and Kubernetes concepts and how to get started with using them.
